@@ -48,4 +48,6 @@ In this project, we propose a deep learning-based approach for detecting deepfak
 7.Contributors
 
 Siddhartha Talasila
+
+
 Lavaneeth Reddy
