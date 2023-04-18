@@ -24,6 +24,9 @@ This directory consists of the user interface code . Where a user can upload the
 Model Creation:
 This directory consists of the step by step process of creating and training a deepfake detection model .
 
+Documentations:
+This Consists of the medium article and the poster for Deepfake video detection using deep learning
+
 4.Architecture Diagram
 
 
