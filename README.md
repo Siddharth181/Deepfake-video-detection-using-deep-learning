@@ -42,3 +42,10 @@ We evaluate the performance of the proposed approach on the DFDC dataset, which 
 
 
 In this project, we propose a deep learning-based approach for detecting deepfake videos. The proposed approach uses a pre-trained CNN for feature extraction and LSTM for classification. The experimental results show that the proposed approach achieves high accuracy in detecting deepfake videos.
+
+
+
+7.Contributors
+
+Siddhartha Talasila
+Lavaneeth Reddy
